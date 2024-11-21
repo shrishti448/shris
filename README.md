@@ -1,0 +1,2 @@
+# shris
+THIS IS MY FIRST REPOSITORY
